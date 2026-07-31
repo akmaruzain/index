@@ -1563,9 +1563,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c2601a15c2ad4a7eaf767f219956affc/ind
 
 # ==================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="LIVE", LIVE 1 
+EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="LIVE", LIVE 1 
 https://live05.meung.app/live/16226575.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="LIVE",LIVE 2
+EXTINF:-1 tvg-id="" tvg-logo="https://colatv65.live/assets/images/logo.png" group-title="LIVE",LIVE 2
 https://live05.meung.app/live/14830711.m3u8
  
