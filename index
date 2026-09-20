@@ -54,3 +54,17 @@ http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngi3Zvwmb1D
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6Ngg5rbnZdbU-JSbTxGlmvKUq
 #EXTINF:-1 xui-id="304" tvg-id="" tvg-name="LIGA 1 BRI" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkROIzL4HtL9obxJPF2Un_bEcj5WnzhovJx3HzNhCPfgYM.png" group-title="LIGA 1 BRI",LIGA 1 BRI
 http://hometv.biz.id:80/play/KrVYNUtc63yvQKQCwg8miHqQ4_EdcTLriwuH5Hq6NgiYzTpotwz2ruDZrGkqfsxx
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE HD (RUTUBE)
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99hU51a.png" group-title="SPORTS",SKY SPORT F1 HD (RUTUBE)
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRTfkg.png" group-title="SPORTS",SKY SPORTS CRICKET HD (RUTUBE)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJYeDGG.png" group-title="SPORTS",SKY SPORTS GOLF HD (RUTUBE)
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https
